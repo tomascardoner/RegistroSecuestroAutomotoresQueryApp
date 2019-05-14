@@ -1,7 +1,33 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RegistroSecuestroAutomotorQueryApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilesFolderSource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP</Value>
+    </Setting>
+    <Setting Name="FilesFolderDestinationActive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP\Activos</Value>
+    </Setting>
+    <Setting Name="FilesFolderDestinationInactive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP\Inactivos</Value>
+    </Setting>
+    <Setting Name="FilesFolderDestinationUrgent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP\Urgentes</Value>
+    </Setting>
+    <Setting Name="FilesFolderDestinationUseCameraSubfolder" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FilesNameFieldSeparator" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">_</Value>
+    </Setting>
+    <Setting Name="FilesFieldCameraOrder" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FilesFieldPlateOrder" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="FilesFieldDateOrder" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
